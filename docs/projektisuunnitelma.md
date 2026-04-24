@@ -50,13 +50,16 @@ Toimiva pelisivusto jossa on vähintään yksi haaste
 
 | Tapahtuma                                      | Päivämäärä | Muut tiedot/osanottajat                               |
 | ---------------------------------------------- | ---------- | ----------------------------------------------------- |
-| Projekti alkaa                                 | 23.04.2026 | Ohjelmistoprojekti 1 alkaa                            |
+| Projekti alkaa                                 | 20.04.2026 | Ohjelmistoprojekti 1 alkaa                            |
 | Idean valinta                                  | 22.04.2026 | Valitaan tuotantoon menevä projekti-idea              |
 | Projektisuunitelman laatiminen                 | 23.04.2026 |                                                       |
 | Projektisuunitelman esittäminen                | 23.04.2026 |                                                       |
 | Sovelluksen pohja ja Haaste 1                  | 27.04.2026 |                                                       |
+| Hello World Julkaisu                           | 29.04.2026 |                                                       |
 | Haaste 2                                       | 04.05.2026 |                                                       |
+| MVP Julkaisu                                   | 04.05.2026 |                                                       |
 | Haaste 2 Loppu ja Haaste 3 mahdollinen Aloitus | 06.05.2026 | Arvioidaan onko tarpeeksi aikaa Haaste 3 toteutukseen |
+| Viimeinen julkaisu                             | 11.05.2026 |                                                       |
 | Projektin testaus/viimeistely alku             | 11.05.2026 |                                                       |
 | Projektin tuotannon loppu                      | 12.05.2026 |                                                       |
 | Projekti päättyy                               | 13.05.2026 | Ohjelmistoprojekti 1 päättyy loppu esityksiin         |
@@ -101,4 +104,3 @@ Tiedostot nimetään `nimi.versio.tiedostopääte`
 | ---------------------------- | -------------- | ------- | ------------------------------------ |
 | Tiedonlähteen toiminallisuus | Pieni          | Suuri   | Yritetään etsiä backup tietolähteitä |
 | Tiimiläisten sairastuminen   | Pieni          | Suuri   | jos on mahdollista etätöitä          |
-
